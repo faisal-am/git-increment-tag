@@ -10,6 +10,6 @@ outputs:
   new-version:
     description: Incremented version based on input
 runs:
-  using: node12
+  using: node20
   main: action/index.js
-  
+
